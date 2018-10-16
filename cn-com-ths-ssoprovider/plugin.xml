@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        id="cn-com-ths-ssoprovider"
+        version="1.0.0">
+    <name>ssoprovider</name>
+    <description>ssoprovider Plugin</description>
+    <license>Apache 2.0</license>
+    <keywords>cordova,shareprefrences,provider</keywords>
+    <engines>
+        <engine name="cordova-android" version=">=4.0.0-dev"/>
+    </engines>
+
+    <js-module src="www/ssoprovider.js" name="SSOProvider">
+        <clobbers target="SSOProvider"/>
+    </js-module>
+
+    <platform name="android">
+        <config-file target="res/xml/config.xml" parent="/*">
+            <feature name="SSOProvider">
+                <param name="android-package" value="cn.com.ths.ssoprovider.SSOProvider"/>
+                <param name="onload" value="true"/>
+            </feature>
+        </config-file>
+        <source-file src="src/android/ssoprovider/ConstantUtils.java" target-dir="src/cn/com/ths/ssoprovider"/>
+        <source-file src="src/android/ssoprovider/SimpleCrypto.java" target-dir="src/cn/com/ths/ssoprovider"/>
+        <source-file src="src/android/ssoprovider/SPContentProvider.java" target-dir="src/cn/com/ths/ssoprovider"/>
+        <source-file src="src/android/ssoprovider/SPHelper.java" target-dir="src/cn/com/ths/ssoprovider"/>
+        <source-file src="src/android/ssoprovider/SPHelperImpl.java" target-dir="src/cn/com/ths/ssoprovider"/>
+        <source-file src="src/android/ssoprovider/SSOProvider.java" target-dir="src/cn/com/ths/ssoprovider"/>
+     
+	    <!--<config-file target="AndroidManifest.xml" parent="/*">
+			<permission android:name="cn.com.ths.permission.USETHSSSO"/>	
+			<uses-permission android:name="cn.com.ths.permission.USETHSSSO"/>
+        </config-file>-->
+        <config-file target="AndroidManifest.xml" parent="application">          
+            <provider 
+				android:name="cn.com.ths.ssoprovider.SPContentProvider"
+				android:authorities="$PACKAGE_NAME"
+				android:exported="true" >
+			</provider>
+        </config-file>
+    </platform>
+</plugin>

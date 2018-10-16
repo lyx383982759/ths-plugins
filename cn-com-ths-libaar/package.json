@@ -1,0 +1,23 @@
+{
+  "name": "cn-com-ths-libaar",
+  "version": "1.0.0",
+  "description": "Use Dynamsoft Barcode Reader plugin to scan different types of barcodes.",
+  "cordova": {
+    "id": "cn-com-ths-libaar",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT"
+}

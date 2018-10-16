@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\MyWork\Comm\thsPlugins\iAppPDFThsPlugin\iAppPDF\iAppPdfThs\app\src\main\assets"><file name="dx.pdf" path="D:\MyWork\Comm\thsPlugins\iAppPDFThsPlugin\iAppPDF\iAppPdfThs\app\src\main\assets\dx.pdf"/></source><source path="D:\MyWork\Comm\thsPlugins\iAppPDFThsPlugin\iAppPDF\iAppPdfThs\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\MyWork\Comm\thsPlugins\iAppPDFThsPlugin\iAppPDF\iAppPdfThs\app\src\debug\assets"/></dataSet></merger>

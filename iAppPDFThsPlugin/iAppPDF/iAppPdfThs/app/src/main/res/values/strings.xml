@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">iAppPDFSmaple</string>
+    
+    <string name="document_save">保存文档</string>
+    <string name="signature">签名</string>
+    <string name="full_signature">全文批注</string>
+
+    <string name="msg_loading_tip">正在加载，请稍候！</string>
+
+    <!-- dialog -->
+    <string name="dialog_title">提示</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="dialog_message_save">是否保存文档？</string>
+
+    <!-- result -->
+    <string name="dialog_save_info">PDF文档已修改，是否保存？</string>
+    <string name="btn_save">保存</string>
+    <string name="btn_no_save">不保存</string>
+    
+    <string name="no_signature2">该文档没有签名域，无法做签名操作</string>
+    <string name="close_doc_title">是否关闭当前文档？</string>
+
+    <string name="launch_pdf">点击屏幕，打开pdf文件！</string>
+</resources>

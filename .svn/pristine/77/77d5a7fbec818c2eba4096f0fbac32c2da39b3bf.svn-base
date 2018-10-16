@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\layout-normal-v4\\kinggrid_signature.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\layout-normal\\kinggrid_signature.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\layout-normal-v4\\kinggrid_signature_full.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\layout-normal\\kinggrid_signature_full.xml"
+    }
+]

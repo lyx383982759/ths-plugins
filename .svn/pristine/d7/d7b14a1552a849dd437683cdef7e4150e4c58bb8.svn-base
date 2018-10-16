@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        id="cn-com-ths-sso"
+        version="1.0.0">
+    <name>THSSsoHandler</name>
+    <description>sso THSSsoHandler</description>
+    <license>Apache 2.0</license>
+    <keywords>cordova,sso</keywords>
+    <engines>
+        <engine name="cordova-android" version=">=4.0.0-dev"/>
+    </engines>
+
+    <js-module src="www/THSSsoHandler.js" name="THSSsoHandler">
+        <clobbers target="THSSsoHandler"/>
+    </js-module>
+
+    <platform name="android">
+        <config-file target="res/xml/config.xml" parent="/*">
+            <feature name="THSSsoHandler">
+                <param name="android-package" value="cn.com.ths.sso.THSSsoHandlerPlugin"/>
+                <param name="onload" value="true"/>
+            </feature>
+        </config-file>
+        <source-file src="src/android/sso/THSSsoHandlerPlugin.java" target-dir="src/cn/com/ths/sso"/>
+		<source-file src="src/android/libs/thssso_v1.0.jar" target-dir="libs" framework="true"/>
+    </platform>
+</plugin>

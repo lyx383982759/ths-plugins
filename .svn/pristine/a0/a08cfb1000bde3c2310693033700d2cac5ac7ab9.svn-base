@@ -1,0 +1,18 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cn-com-ths-baidulocation": {
+            "PACKAGE_NAME": "cn.com.ths.baidulocation"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "cn.com.ths.baidulocation"
+        }
+    },
+    "dependent_plugins": {}
+}

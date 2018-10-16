@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c1b056bf9f65cde7248ae07adef27c9e\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

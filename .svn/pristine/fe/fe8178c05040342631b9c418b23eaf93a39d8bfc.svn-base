@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_pen_n.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_pen_n.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_close.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_close.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_signature1.9.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_signature1.9.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_earse.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_earse.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c1b056bf9f65cde7248ae07adef27c9e\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_clear.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_clear.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_undo.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_undo.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_signature_n.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_signature_n.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c1b056bf9f65cde7248ae07adef27c9e\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_save_w.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_save_w.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_pdf_save_item_p.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_pdf_save_item_p.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_ballpen.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_ballpen.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_save_p.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_save_p.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_pencil.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_pencil.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_undo_w.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_undo_w.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_redo_p.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_redo_p.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\img_circle.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\img_circle.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_close_p.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_close_p.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_signature_bg_undo.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_signature_bg_undo.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_clear_n.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_clear_n.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_pen_p.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_pen_p.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_undo_n.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_undo_n.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_earse_n.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_earse_n.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_clear_w.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_clear_w.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_signature_bg_redo.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_signature_bg_redo.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_signer_full.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_signer_full.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_signature_bg_close.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_signature_bg_close.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c1b056bf9f65cde7248ae07adef27c9e\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_undo_p.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_undo_p.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_close_w.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_close_w.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_brushpen.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_brushpen.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c1b056bf9f65cde7248ae07adef27c9e\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_signer_full_p.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_signer_full_p.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_signature_bg_pen.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_signature_bg_pen.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_signature.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_signature.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_redo_n.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_redo_n.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_redo.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_redo.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_save.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_save.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\application_icon.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\application_icon.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_earse_p.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_earse_p.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\img_progressbar.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\img_progressbar.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_signature_p.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_signature_p.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_waterpen.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_waterpen.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_signer_full_n.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_signer_full_n.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_pdf_save_item.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_pdf_save_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_signature.9.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_signature.9.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_clear_p.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_clear_p.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_redo_w.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_redo_w.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_save_n.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_save_n.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_signature_bg_save.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_signature_bg_save.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_signature_bg_clear.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_signature_bg_clear.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_pen_w.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_pen_w.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_pen.xml",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_pen.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_bg_close_n.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_bg_close_n.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\liuyx\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d23dc7a60aad7d1de504f312337984e\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\build\\intermediates\\res\\merged\\release\\drawable\\kinggrid_pdf_save_item_n.png",
+        "source": "D:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\thslibrary\\src\\main\\res\\drawable\\kinggrid_pdf_save_item_n.png"
+    }
+]

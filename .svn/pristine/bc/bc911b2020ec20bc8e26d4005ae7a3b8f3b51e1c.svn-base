@@ -1,0 +1,14 @@
+{
+  "name": "ths",
+  "version": "1.0.0",
+  "description": "集成第三方金格软件iapppdf  ",
+  "cordova": {
+    "id": "cn.com.ths.iapppdf",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "liuyx",
+  "license": "ISC"
+}

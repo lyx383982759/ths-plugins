@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="cn-com-ths-libaar" version="1.0.0">
+  <name>ThsAarLauncherUtil</name>
+  <description>Use Dynamsoft Barcode Reader plugin to scan different types of barcodes.</description>
+  <license>MIT</license>
+  <engines>
+    <engine name="cordova" version=">=3.0.0"/>
+  </engines>
+  <js-module src="www/ThsAarLauncherUtil.js" name="ThsAarLauncherUtil">
+    <clobbers target="cordova.plugins.ThsAarLauncherUtil"/>
+  </js-module>
+  <platform name="android">
+    <source-file src="src/android/ThsAarLauncherUtil.java" target-dir="src/cn/com/ths/libaar"/>
+    <config-file target="res/xml/config.xml" parent="/*">
+      <feature name="ThsAarLauncherUtil">
+        <param name="android-package" value="cn.com.ths.libaar.ThsAarLauncherUtil"/>
+      </feature>
+    </config-file>
+	<!-- 配置权限 -->
+    <config-file target="AndroidManifest.xml" parent="/manifest">
+	  <!-- lib权限 -->
+      <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+      <!-- 这个权限用于进行网络定位 -->
+      <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+      <!-- 这个权限用于访问GPS定位 -->
+      <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+      <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+      <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+      <!-- 获取运营商信息，用于支持提供运营商信息相关的接口 -->
+      <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+      <!-- 这个权限用于获取wifi的获取权限，wifi信息会用来进行网络定位 -->
+      <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+      <!-- 用于读取手机当前的状态 -->
+      <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+      <!-- 写入扩展存储，向扩展卡写入数据，用于写入离线定位数据 -->
+      <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+      <!-- 访问网络，网络定位需要上网 -->
+      <uses-permission android:name="android.permission.INTERNET" />
+      <!-- SD卡读取权限，用户写入离线定位数据 -->
+      <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+      <uses-permission android:name="android.permission.READ_SMS" />
+      <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+      <uses-permission android:name="android.permission.CAMERA" />
+      <uses-permission android:name="android.permission.CAPTURE_AUDIO_OUTPUT" />
+      <uses-permission android:name="android.permission.CAPTURE_VIDEO_OUTPUT" />
+    </config-file>
+	<!-- 注册组件-->
+	<config-file target="AndroidManifest.xml" parent="/manifest/application">
+	    <!-- 事件报告的入口Activity -->
+        <activity android:name="com.thyc.haidianlibrary.ActivityBackLog" />
+        <!-- 应急知识库的入口Activity -->
+        <activity android:name="com.thyc.haidianlibrary.ActivityRepository" />
+        <!-- 其它配置类Activity -->
+
+        <activity android:name="com.thyc.haidianlibrary.ActivityMsds" />
+        <activity android:name="com.thyc.haidianlibrary.ActivityDisposal" />
+        <activity android:name="com.thyc.haidianlibrary.ActivityDetection" />
+        <activity android:name="com.thyc.haidianlibrary.ActivityLaw" />
+        <activity android:name="com.thyc.haidianlibrary.ActivityError" />
+        <activity android:name="com.thyc.haidianlibrary.ActivityEventDetail" />
+        <activity android:name="com.thyc.haidianlibrary.ActivityRepositoryDownload" />
+        <activity android:name="com.thyc.haidianlibrary.ActivityMsdsDetail" />
+        <activity android:name="com.thyc.haidianlibrary.ActivityDisposalDetail" />
+        <activity android:name="com.thyc.haidianlibrary.ActivityLawDetail" />
+        <activity android:name="com.thyc.haidianlibrary.ActivityDetectionDetail" />
+        <activity android:name="com.thyc.haidianlibrary.ActivitySearch" />
+
+        <receiver
+            android:name="com.thyc.broadcast.MyReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.REBOOT" />
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name="com.thyc.haidianlibrary.ActivityMaillist" />
+        <activity android:name="com.thyc.haidianlibrary.ActivityMsdsDisposal" />
+        <activity android:name="com.thyc.haidianlibrary.ActivityMsdsDection" />
+        <activity android:name="com.thyc.test.MainActivityText" />
+        <activity android:name="com.thyc.test.MainActivityTest2" />
+        <activity android:name="com.thyc.test.MainActivityTest3" />
+        <activity android:name="com.thyc.haidianlibrary.ActivitySearchBacklog"/>
+    </config-file>
+    <framework src="src/ThsAarLauncherUtil.gradle" custom="true" type="gradleReference"/>
+    <resource-file src="src/android/hdyj.aar" target="libs/hdyj.aar"/>
+  </platform>
+</plugin>

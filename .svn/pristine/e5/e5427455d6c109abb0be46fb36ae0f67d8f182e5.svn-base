@@ -1,0 +1,25 @@
+{
+  "name": "cn-com-ths-sso",
+  "version": "1.0.0",
+  "description": "sso THSSsoHandler",
+  "cordova": {
+    "id": "cn-com-ths-sso",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "sso",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4.0.0-dev"
+    }
+  ],
+  "author": "chixin",
+  "license": "Apache 2.0"
+}

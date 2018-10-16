@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Tue Oct 09 22:20:35 CST 2018
+2.base=D\:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+5.set=NATIVE_RESOURCE
+0.path=lib/armeabi/libTFDriver.so
+2.baseType=DIRECTORY
+3.base=D\:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.set=DEX
+1.path=lib/armeabi/libkgsslsignature.so
+4.base=D\:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\app\\build\\intermediates\\assets\\debug
+count=7
+5.baseType=DIRECTORY
+2.path=classes.dex
+5.base=D\:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+4.set=ASSET
+3.path=lib/armeabi/libiapppdf.so
+6.base=D\:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=dx.pdf
+6.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=lib/armeabi/libLMSecurityPlugin.so
+0.base=D\:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+6.path=lib/armeabi/libistylepdfengine.so
+1.base=D\:\\MyWork\\Comm\\thsPlugins\\iAppPDFThsPlugin\\iAppPDF\\iAppPdfThs\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE

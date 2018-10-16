@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="cn.com.ths.iapppdf" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android"><name>iapppdfths</name>
+<js-module name="iapppdfths" src="www/iapppdfths.js">
+<clobbers target="cordova.plugins.iapppdfths" />
+</js-module>
+  <platform name="android">
+      <config-file parent="/*" target="res/xml/config.xml">
+        <feature name="iapppdfths"><param name="android-package" value="cn.com.ths.iapppdf.iapppdfths" /></feature>
+      </config-file>
+      <config-file parent="/*" target="AndroidManifest.xml"></config-file>
+      <source-file src="src/android/iapppdfths.java" target-dir="src/cn/com/ths/iapppdf" />
+      <source-file src="src/android/thslibrary1009.aar" target-dir="libs" />
+      <framework src="src/android/iapppdfths.gradle" custom="true" type="gradleReference" /> 
+  </platform>
+</plugin>
