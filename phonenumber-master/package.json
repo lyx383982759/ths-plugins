@@ -1,0 +1,23 @@
+{
+  "name": "at.oneminutedistraction.phonenumber",
+  "version": "0.0.1",
+  "description": "\n\t\tThis plugin allows your application get the device's phone number  \n\t",
+  "cordova": {
+    "id": "at.oneminutedistraction.phonenumber",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "liuyx",
+  "license": "Apache 2.0"
+}
